@@ -1,0 +1,5 @@
+component
+make details  component, call details component
+
+props 
+value 
